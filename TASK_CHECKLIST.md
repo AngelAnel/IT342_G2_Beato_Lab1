@@ -3,6 +3,6 @@
 ## Setup
 - [x] Create GitHub repository
 - [x] Setup folder structure
-- [ ] Initialize React frontend
-- [ ] Initialize Spring Boot backend
-- [ ] Setup MySQL database
+- [x] Initialize React frontend
+- [x] Initialize Spring Boot backend
+- [x] Setup MySQL database
