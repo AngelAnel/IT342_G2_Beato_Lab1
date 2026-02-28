@@ -1,0 +1,11 @@
+<resources>
+        <string name="app_name">UserAuth</string>
+        <string name="welcome_text">Welcome, User!</string>
+        <string name="name_label">Name</string>
+        <string name="email_label">Email</string>
+        <string name="username_label">Username</string>
+        <string name="name_placeholder">[First] [Last]</string>
+        <string name="email_placeholder">[Email]</string>
+        <string name="username_placeholder">[Username]</string>
+        <string name="settings_button">Settings</string>
+</resources>
