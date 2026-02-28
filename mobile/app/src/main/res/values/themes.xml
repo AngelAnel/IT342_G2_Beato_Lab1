@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Base.Theme.UserAuthMobile" parent="Theme.Material3.Light.NoActionBar">
+        <item name="colorPrimary">@color/purple_primary</item>
+        <item name="colorPrimaryVariant">@color/purple_dark</item>
+        <item name="colorSecondary">@color/purple_secondary</item>
+        <item name="android:statusBarColor">@color/purple_primary</item>
+    </style>
+
+    <style name="Theme.UserAuthMobile" parent="Base.Theme.UserAuthMobile" />
+</resources>
